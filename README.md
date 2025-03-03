@@ -2,6 +2,29 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18483818&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Version control is a system that helps manage changes to documents, programs, and other information stored as computer files. GitHub, one of the most popular version control tools, uses Git to track changes in code and manage different versions of a project.
+
+Key Concepts of Version Control:
+
+Commit: A commit is a snapshot of the project's current state. Each commit records changes made to the code since the last commit.
+
+Branch: Branching allows developers to create separate workspaces for different features, fixes, or experiments without affecting the main project.
+
+Merge: Merging integrates changes from one branch into another, combining different development efforts.
+
+Repository (Repo): A repository is a storage space where the project's files and their version history are kept.
+
+Reasons why GitHub is a popular tool:
+
+-GitHub simplifies collaboration by allowing multiple developers to work on the same project simultaneously.
+
+-Every change is recorded, making it easy to revert to previous versions if needed.
+
+-All changes are documented, providing a clear history of the project.
+
+-GitHub integrates with various tools and services, and its vast user community provides resources and support.
+
+Version control helps maintain project integrity by keeping track of every modification. This ensures that changes are deliberate and documented, allowing for accountability and the ability to undo mistakes.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
